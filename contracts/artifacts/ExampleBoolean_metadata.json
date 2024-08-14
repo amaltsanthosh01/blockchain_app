@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleBoolean.sol": "MyBoolean"
+			"contracts/ExampleBoolean.sol": "ExampleBoolean"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"contracts/ExampleBoolean.sol": {
-			"keccak256": "0xe8383b4e675e28966b89ac154eb0094bc965ebdef2941fa2e9a963721ab0d8e1",
+			"keccak256": "0x0728ab5ce413a4f07f3b522ec09266814473d52c56c2bc9eec8a843890387c9f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://93e87abc05a2626685e7b3a55204e69dc58f44b76a47883e6921b046b57e384a",
-				"dweb:/ipfs/QmTEVzVJXRS49CNt37sStYU787wvgpMDo8Y1YopeDNQ87V"
+				"bzz-raw://f2c5465df40646c1cae69343073dfb1add3253fbd44d4a3ff16fb0efd073fe20",
+				"dweb:/ipfs/QmW2qThWVTyK8NMpuX8GkRuhrYRPPwZSvkueLTXu2MZN9u"
 			]
 		}
 	},
