@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity >=0.7.0 <0.9.0; // or whichever version of Solidity you're using
+pragma solidity >=0.7.0 <0.9.0;
 contract MyContract {
     string public ourString = "Hello World on Earth";
 

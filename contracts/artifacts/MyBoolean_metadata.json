@@ -7,12 +7,12 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "ourString",
+				"name": "myBool",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "bool",
 						"name": "",
-						"type": "string"
+						"type": "bool"
 					}
 				],
 				"stateMutability": "view",
@@ -21,12 +21,12 @@
 			{
 				"inputs": [
 					{
-						"internalType": "string",
-						"name": "_updatedString",
-						"type": "string"
+						"internalType": "bool",
+						"name": "_myBool",
+						"type": "bool"
 					}
 				],
-				"name": "updateOurString",
+				"name": "updateMyBool",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/MyContract.sol": "MyContract"
+			"contracts/MyBoolean.sol": "MyBoolean"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/MyContract.sol": {
-			"keccak256": "0x880e67e9ac9b68d3d5d859ded1ecfcce0bcf1550890d111f49603f08cc780614",
+		"contracts/MyBoolean.sol": {
+			"keccak256": "0xe8383b4e675e28966b89ac154eb0094bc965ebdef2941fa2e9a963721ab0d8e1",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://dc8c5760d6c6cd5a90eeacf9d73afefbb98269e60dd678185e34fdb9d8365ca2",
-				"dweb:/ipfs/QmawQY3gD6a19b6SNfVCeuUT6CLknzdumnbzkC8zMfxhsT"
+				"bzz-raw://93e87abc05a2626685e7b3a55204e69dc58f44b76a47883e6921b046b57e384a",
+				"dweb:/ipfs/QmTEVzVJXRS49CNt37sStYU787wvgpMDo8Y1YopeDNQ87V"
 			]
 		}
 	},
