@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleUint.sol": "ExampleBoolean"
+			"contracts/ExampleStrings.sol": "ExampleUint"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleUint.sol": {
-			"keccak256": "0x1bacf6cb2bbcfb7f70a51c07a9aacbcdb16d24d1837bcbe8c2823e2a55065e2d",
+		"contracts/ExampleStrings.sol": {
+			"keccak256": "0xe53620c8fa69b379ac818764a9dded8dbf266612f2b9016b048921b5ef755819",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c60d5507de42e4243f20cfd70b1233b258ab777049988657de678d4843c0154b",
-				"dweb:/ipfs/QmS5ht8ox6n2qXeH5eyJLs8PKSsHnthGBv2GzFgDkb6qGQ"
+				"bzz-raw://580e02a89efd6483e01e783c72c7b206c29576171e32d946328f0bd36db2cb32",
+				"dweb:/ipfs/QmQVz3fqBKKUQnHqBEV2bwET2WKGJie8y3uiq8BaiPfqzT"
 			]
 		}
 	},
