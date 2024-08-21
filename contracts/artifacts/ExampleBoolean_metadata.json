@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleUint.sol": "ExampleBoolean"
+			"contracts/ExampleAddress.sol": "ExampleBoolean"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,7 +32,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleUint.sol": {
+		"contracts/ExampleAddress.sol": {
 			"keccak256": "0x1bacf6cb2bbcfb7f70a51c07a9aacbcdb16d24d1837bcbe8c2823e2a55065e2d",
 			"license": "MIT",
 			"urls": [
