@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExamplePureView.sol": "ExampleMsgSender"
+			"contracts/ExamplePureView.sol": "ExampleView"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/ExamplePureView.sol": {
-			"keccak256": "0x7da39190cda37de33bf2e4f05cc973ad7f30b14734556d9261baf9eca8410482",
+			"keccak256": "0x94d970b2aeb2cd649f89fe692bff1aa9d8b20e8f322fb27214460c11c5a7ec78",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://02b1e6f2695c4106546e631a2f675be2d4b0e97b2cadf679c5c824f6f6945a9a",
-				"dweb:/ipfs/QmQF3r314vWbCUP1BqmR21BmjXTFa55v7WFBtDc6dNEJ9Z"
+				"bzz-raw://38bcc7abe7268bba5dd086c1f9a43dafa9fe45162acbbfee41c8eaac5b7b629a",
+				"dweb:/ipfs/QmeBse4og68MokvXX7hzc4wyLNbfPtvL8zc9RmkpfLP7oS"
 			]
 		}
 	},
